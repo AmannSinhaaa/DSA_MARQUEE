@@ -13,7 +13,8 @@ public class ifelse {
         // class TernaryOperator{
 
         //    what is ternary operator?
-        //     A temporary operator is a replacement of the if-else block, basically a short form of if else is covered within the line
+        //     A temporary operator is a replacement of the if-else block, basically a short form of if else is covered 
+        //     within the line.
         // }
 
         //  Why its called ternary operator?
