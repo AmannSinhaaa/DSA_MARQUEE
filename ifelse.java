@@ -19,5 +19,6 @@ public class ifelse {
 
         //  Why its called ternary operator?
         //  It is called ternary becuase, its uses three operands.
+
     }
 }
