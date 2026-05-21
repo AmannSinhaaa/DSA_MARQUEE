@@ -19,3 +19,9 @@ public class func {
 // access_modifier return_type function_name(lst of parameters){
 // body
 //} return type
+
+// Features:-
+// 1. Reusability
+// 2. Modularity
+// 3. Easy to debug
+
