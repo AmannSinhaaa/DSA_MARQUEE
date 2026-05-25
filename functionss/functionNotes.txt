@@ -1,27 +1,47 @@
+A. what is Functions?
+Functions are reusable block of code that is used to perform specific tasks.
 
+B. Components of Functions?
  access_modifier return_type function_name(lst of parameters){
  body
-} return type
+ } return type
 
- Features:-
+C. Two types of Functions:-
+1. Parameterized Functions - at least one parameter
+2. Non-Parameterized Functions - no parameters
+
+D. Features of Functions :-
  1. Reusability
  2. Modularity
  3. Easy to debug and test
 
- static method and variables are stored in static area.
- variables are stored in static memory.
+E. Stack Memory:-
+ It is faster,
+ static method and variables are stored in stack area.
+ variables are stored in stack memory.
  each and every function creates its own area known as stack frames. 
  stack frames contains the functions with its variables and all the content.
  there are two method, object, variable which are static and non-static.
 
  where are the non-static variables stored?
 
+F. Heap Memory
  heap memory stores runtime data and dynamic data.
 
- there are 3 types of scope-
+G. There are 3 types of scope-
  1. Local scope
  2. Block scope
  3. Global scope
 
- 
+H. Function Overoading():-
+ Same Function name but different parameters. Also known as compiled time polymorphism.
+
+I. Function Overriding():-
+ Same Function with Same parameters.
+
+J. Recursive Function :-
+ A function calling itself within its body is known as recursive function.
+
+ Call by value()
+ Call by refernce()
 
