@@ -13,3 +13,6 @@ int[] arr = new int[3] // here we can add the values in array later on.
 
 arr.length; // it is used to find the size of array.
 we don't use parenthesis after length because it is a property/attribute not a method.
+
+Arrays are declared at compile time.
+Memory allocation and size determination is done at runtime.
