@@ -1,0 +1,15 @@
+Why do we need array?
+1. For accessbility.
+2. For management.
+
+int[] arr; // it is called declaration of array.
+int[] arr = {1,2,3,4}; // it is called initialization of array.
+
+Array is always fixed in size.
+
+
+int[] arr = {1,2,3}; // here the value is already initialized in array.
+int[] arr = new int[3] // here we can add the values in array later on.
+
+arr.length; // it is used to find the size of array.
+we don't use parenthesis after length because it is a property/attribute not a method.
