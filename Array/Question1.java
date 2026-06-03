@@ -27,6 +27,5 @@ public class Question1 {
         int target = sc.nextInt();
         int [] ans = twoSum(nums,target);
         System.out.println(Arrays.toString(ans));
-
         }
 }
